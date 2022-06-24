@@ -1,4 +1,4 @@
-Hell'O there I’m @DnielRhde (aka Daniel Rohde)
+Hell'O there I’m @DnielRhde (aka Daniel Rohde)n\n
 I’m interested in any project
 I’m currently learning Threejs and React
 I’m looking to collaborate on almost anything. Bare skriv pls xd (ellers kommer jeg til at kede mig i sommerferien..).
