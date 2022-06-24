@@ -1,4 +1,4 @@
-Hell'O there I’m @DnielRhde (aka Daniel Rohde). <br />
+The man, the myth, the legend, @DnielRhde (aka Daniel Rohde). <br />
 I’m interested in any project. <br />
 I’m currently learning Threejs and React. <br />
 I’m looking to collaborate on almost anything. Bare skriv pls xd (ellers kommer jeg til at kede mig i sommerferien..). <br />
